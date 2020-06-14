@@ -1,4 +1,4 @@
-<center>![Average internet Speed](https://i.ibb.co/vXGD78L/Capture.png)</center>
+![Average internet Speed](https://i.ibb.co/vXGD78L/Capture.png)
 
 In an era where the average internet speed is constantly growing(with 5G and other new available technologies) is Google speed insights (or alternatives) still useful?
 
